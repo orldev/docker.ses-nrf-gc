@@ -10,7 +10,7 @@ The Google Cloud CLI is a set of tools to create and manage Google Cloud resourc
 
 The installation process on Debian/Ubuntu is described [here](https://www.educative.io/answers/how-to-install-google-cloud-cli-on-debian-ubuntu)
 
-### Segger Embedded Studio 7.10
+### Segger Embedded Studio 7.10a
 
 Embedded Studio is the all-in-one integrated development environment (IDE) for embedded systems. [Release notes](https://studio.segger.com/index.htm?https://studio.segger.com/arm_segger_studio_release_notes.htm)
 
